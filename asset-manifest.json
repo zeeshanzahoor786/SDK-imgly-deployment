@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.8c1343d3.chunk.js": "/zeeshanzahoor786/imgly-deployment.git/static/js/0.8c1343d3.chunk.js",
+    "static/js/0.8c1343d3.chunk.js.map": "/zeeshanzahoor786/imgly-deployment.git/static/js/0.8c1343d3.chunk.js.map",
+    "main.css": "/zeeshanzahoor786/imgly-deployment.git/static/css/main.10529e77.chunk.css",
+    "main.js": "/zeeshanzahoor786/imgly-deployment.git/static/js/main.173d0c72.chunk.js",
+    "main.js.map": "/zeeshanzahoor786/imgly-deployment.git/static/js/main.173d0c72.chunk.js.map",
+    "runtime-main.js": "/zeeshanzahoor786/imgly-deployment.git/static/js/runtime-main.47c7ee1c.js",
+    "runtime-main.js.map": "/zeeshanzahoor786/imgly-deployment.git/static/js/runtime-main.47c7ee1c.js.map",
+    "static/js/3.5dbbca38.chunk.js": "/zeeshanzahoor786/imgly-deployment.git/static/js/3.5dbbca38.chunk.js",
+    "static/js/3.5dbbca38.chunk.js.map": "/zeeshanzahoor786/imgly-deployment.git/static/js/3.5dbbca38.chunk.js.map",
+    "static/js/4.5580f459.chunk.js": "/zeeshanzahoor786/imgly-deployment.git/static/js/4.5580f459.chunk.js",
+    "static/js/4.5580f459.chunk.js.map": "/zeeshanzahoor786/imgly-deployment.git/static/js/4.5580f459.chunk.js.map",
+    "index.html": "/zeeshanzahoor786/imgly-deployment.git/index.html",
+    "precache-manifest.474d2ae8174ad0ce54cd09eff4d56e40.js": "/zeeshanzahoor786/imgly-deployment.git/precache-manifest.474d2ae8174ad0ce54cd09eff4d56e40.js",
+    "service-worker.js": "/zeeshanzahoor786/imgly-deployment.git/service-worker.js",
+    "static/css/main.10529e77.chunk.css.map": "/zeeshanzahoor786/imgly-deployment.git/static/css/main.10529e77.chunk.css.map",
+    "static/js/3.5dbbca38.chunk.js.LICENSE.txt": "/zeeshanzahoor786/imgly-deployment.git/static/js/3.5dbbca38.chunk.js.LICENSE.txt",
+    "static/media/bgVideo.mp4": "/zeeshanzahoor786/imgly-deployment.git/static/media/bgVideo.b6f21244.mp4",
+    "static/media/classFour.jpg": "/zeeshanzahoor786/imgly-deployment.git/static/media/classFour.558a8275.jpg",
+    "static/media/classOne.jpg": "/zeeshanzahoor786/imgly-deployment.git/static/media/classOne.17401abc.jpg",
+    "static/media/classThree.jpg": "/zeeshanzahoor786/imgly-deployment.git/static/media/classThree.c5162d4d.jpg",
+    "static/media/classTwo.jpg": "/zeeshanzahoor786/imgly-deployment.git/static/media/classTwo.92e684d5.jpg",
+    "static/media/gymOverlayBg.jpg": "/zeeshanzahoor786/imgly-deployment.git/static/media/gymOverlayBg.f042c2ac.jpg",
+    "static/media/scheduleBg.jpg": "/zeeshanzahoor786/imgly-deployment.git/static/media/scheduleBg.7afa204f.jpg",
+    "static/media/trainerOne.jpg": "/zeeshanzahoor786/imgly-deployment.git/static/media/trainerOne.9af65604.jpg",
+    "static/media/trainerThree.jpg": "/zeeshanzahoor786/imgly-deployment.git/static/media/trainerThree.7bfc49e8.jpg",
+    "static/media/trainerTwo.jpg": "/zeeshanzahoor786/imgly-deployment.git/static/media/trainerTwo.c7a6feb7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47c7ee1c.js",
+    "static/js/3.5dbbca38.chunk.js",
+    "static/css/main.10529e77.chunk.css",
+    "static/js/main.173d0c72.chunk.js"
+  ]
+}
